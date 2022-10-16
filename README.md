@@ -32,7 +32,7 @@
   <a href = "mailto:igabybarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-barros-aa3a54231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ ![Snake animation](https://github.com/IngridBarros0307/IngridBarros0307/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
