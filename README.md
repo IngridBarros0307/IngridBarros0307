@@ -1,7 +1,7 @@
  ## Oi! Sou Ingrid Barros!👋
 
 
-- 🌱Estudando Desenvolvimento de Sistemas 
+- 🌱Estudando Segurança da Informação 
 - 😄 Pronome: ela/dela
 
 <div align="center">
@@ -28,8 +28,8 @@
   
   <div> 
 
-  <a href="https://www.instagram.com/indy_barros0307/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igabybarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ingridbarros_0307/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ingridbarros0307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-barros-aa3a54231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
